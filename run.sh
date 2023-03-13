@@ -21,7 +21,7 @@ echo 2 - Tute02.c
 echo 3 - Tute03.c
 echo 4 - Tute04.c 
 echo
-read -p 'Enter your Choice (1-4) : ' 1
+read -p 'Enter your Choice (1-4) : 
 
 
 case $no in 1*)
