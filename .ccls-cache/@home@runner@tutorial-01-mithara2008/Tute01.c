@@ -10,7 +10,7 @@ int main() {
   float avg;
   
   printf("Enter the marks :");
-  scanf("%d %d",&marks1);1
+  scanf("%d %d",&marks1);
 
   printf("Enter the marks :");
   scanf("%d %d",&marks2);
